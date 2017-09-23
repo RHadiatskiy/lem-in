@@ -1,0 +1,49 @@
+#ololo
+#lalala
+#azaza
+42
+##start
+#
+#
+#
+#
+#
+one 3 1
+two 23 1
+#comment
+three 16 3
+four 16 5
+five 4 3
+six 2 8
+##end
+#
+#
+#
+#
+#
+zero 1 8
+one-two
+one-three
+two-one
+two-three
+two-four
+two-six
+three-one
+three-two
+three-six
+three-five
+four-two
+four-six
+four-zero
+#another comment
+five-three
+five-six
+five-zero
+six-three
+six-two
+six-four
+six-five
+six-zero
+zero-four
+zero-five
+zero-six
